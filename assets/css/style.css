@@ -58,12 +58,12 @@ li a{
 
 
 section{
-    background-color: #ffffff;
+    background-color: black;
     width: 960px;
     margin-left: 20%;
     position: absolute;
     margin-bottom: 100px;
-    border-left: 1px solid #dddddd;
+    border-left: 1px solid #ffff48;
     margin-top: 100px;
     padding-bottom: 50px;
 }
