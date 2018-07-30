@@ -58,12 +58,12 @@ li a{
 
 
 section{
-    background-color: black;
+    background-color: white;
     width: 960px;
     margin-left: 20%;
     position: absolute;
     margin-bottom: 100px;
-    border-left: 1px solid #ffff48;
+    border: 1px solid black;
     margin-top: 100px;
     padding-bottom: 50px;
 }
@@ -99,7 +99,7 @@ footer{
 
 #footer{
     inline-size: 100px;
-    margin-left: 45%;
+    margin-left: 49%;
 }
 
 #hr{
@@ -132,8 +132,8 @@ h6{
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
-    width: 33.3%;
-    height: 33.3%;
+    width: 30.3%;
+    height: 30.3%;
     position: relative;
     bottom: 20px;
 }
